@@ -1,1 +1,1 @@
-![feelings](feelings.jpg)
+![feelings](others/feelings.jpg)
