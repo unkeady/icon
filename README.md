@@ -1,2 +1,2 @@
 ![feelings](others/feelings.jpg)
-![ahegao](others/ahegaos.gif)
+![ahegao](others/bigahegaos.gif)
